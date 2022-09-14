@@ -1,6 +1,8 @@
 html, body {
     height: 100%;
     width: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
   }
   
 #box{
@@ -15,4 +17,6 @@ html, body {
 
 .link:hover{
     cursor: pointer;
+    font-size: 2em;
+    font-weight: bold;
 }
